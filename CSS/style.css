@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+.container{
+    background-color: rgba(255, 255, 255, 0);
+}
+
 /*style-header*/
 
 header{
@@ -21,4 +25,71 @@ h1{
     vertical-align: middle;
     font-size: 2.5rem;
 
+}
+
+/*style main*/
+
+.button{
+    background-color: white;
+
+    margin: 3rem 8rem;
+    padding: .5em 3em;
+
+}
+
+#button-task{
+    padding: .5em;
+    background-color: rgb(111, 203, 249);
+    border: 0.1em solid rgb(111, 203, 249);
+    border-radius: 12%;
+    color: white;
+}
+
+#button-section{
+    padding: .5em;
+    background-color: white;
+    border: .1em solid grey;
+    border-radius: 12%;
+    color: grey;
+}
+
+/*style list*/
+
+.style-list{
+    margin-left: 8rem;
+
+}
+
+#font-blu{
+    background-color: rgb(111, 203, 249);
+}
+
+#font-porpole{
+    background-color: rgb(102, 51, 221);
+}
+
+#font-green{
+    background-color: green;
+}
+
+#font-orange{
+    background-color: orange;
+}
+
+#font-pink{
+    background-color: pink;
+}
+
+#font-greenyellow{
+    background-color: greenyellow;
+}
+
+#check{
+    border: solid green;
+
+}
+
+#cross{
+
+    border: solid red;
 }
