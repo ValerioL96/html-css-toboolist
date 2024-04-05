@@ -115,6 +115,9 @@ section{
     display: inline-block;
     height: 1.5rem;
     width:1.5rem;
+    text-align: center;
+    line-height: 1.5rem;
+    vertical-align: middle;
 
 }
 
@@ -125,4 +128,7 @@ section{
     display: inline-block;
     height: 1.5rem;
     width:1.5rem;
+    text-align: center;
+    line-height: 1.2rem;
+    vertical-align: middle;
 }
