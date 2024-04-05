@@ -31,8 +31,7 @@ h1{
 
 .button{
     background-color: white;
-
-    margin: 3rem 8rem;
+    margin: 3rem 8rem 1rem;
     padding: .5em 3em;
 
 }
@@ -56,40 +55,74 @@ h1{
 /*style list*/
 
 .style-list{
-    margin-left: 8rem;
+    margin-left: 11rem;
+    line-height: 2.5em;
 
+}
+
+section{
+    padding-bottom: 1.5rem;
 }
 
 #font-blu{
     background-color: rgb(111, 203, 249);
+    padding: .3em;
+    border-radius: 25%;
+    color: white;
+
+    
 }
 
 #font-porpole{
     background-color: rgb(102, 51, 221);
+    padding: .3em;
+    border-radius: 25%;
+    color: white;
 }
 
 #font-green{
     background-color: green;
+    padding: .3em;
+    border-radius: 25%;
+    color: white;
 }
 
 #font-orange{
     background-color: orange;
+    padding: .3em;
+    border-radius: 25%;
+    color: white;
 }
 
 #font-pink{
     background-color: pink;
+    padding: .3em;
+    border-radius: 25%;
+    color: white;
 }
 
 #font-greenyellow{
     background-color: greenyellow;
+    padding: .3em;
+    border-radius: 25%;
+    color: white;
+
 }
 
 #check{
-    border: solid green;
+    border: solid  green;
+    border-radius: 50%;
+    display: inline-block;
+    height: 1.5rem;
+    width:1.5rem;
 
 }
 
 #cross{
 
     border: solid red;
+    border-radius: 50%;
+    display: inline-block;
+    height: 1.5rem;
+    width:1.5rem;
 }
