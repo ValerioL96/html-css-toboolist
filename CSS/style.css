@@ -6,13 +6,16 @@
 }
 
 .container{
-    background-color: rgba(255, 255, 255, 0);
+    padding-bottom: 1rem;
+    background-color:  rgb(246 248 249);
 }
 
 /*style-header*/
 
 header{
     padding: 1rem 3rem;
+    margin: 0rem 3rem;
+    background-color: white;
 }
 
 img{
@@ -31,7 +34,7 @@ h1{
 
 .button{
     background-color: white;
-    margin: 3rem 8rem 1rem;
+    margin: 3rem 11rem .2rem;
     padding: .5em 3em;
 
 }
@@ -55,8 +58,9 @@ h1{
 /*style list*/
 
 .style-list{
-    margin-left: 11rem;
+    margin: 0rem 11rem;
     line-height: 2.5em;
+    background-color: white;
 
 }
 
